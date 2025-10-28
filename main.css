@@ -1,0 +1,10 @@
+body {
+    background-image: url('скала\ фон.jpg');
+    color: cyan;
+    background-size: cover;
+
+}
+video {
+    width: 500px;
+    height: 500px;
+}
